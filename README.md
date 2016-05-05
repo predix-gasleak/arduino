@@ -1,2 +1,2 @@
 # arduino
-code related Arduino microcontroller
+code repository for related Arduino microcontroller related programs
